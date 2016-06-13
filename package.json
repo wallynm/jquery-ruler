@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "name": "jquery-ui.ruler",
+        "raw": "jquery-ui.ruler@^1.0.0",
+        "rawSpec": "^1.0.0",
+        "scope": null,
+        "spec": ">=1.0.0 <2.0.0",
+        "type": "range"
+      },
+      "/Users/wallysson/www/mailartisan/app"
+    ]
+  ],
+  "_from": "jquery-ui.ruler@>=1.0.0 <2.0.0",
+  "_id": "jquery-ui.ruler@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/jquery-ui.ruler",
+  "_nodeVersion": "6.1.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/jquery-ui.ruler-1.0.0.tgz_1465220489113_0.7585312090814114"
+  },
+  "_npmUser": {
+    "email": "wally.nm@gmail.com",
+    "name": "wallynm"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "jquery-ui.ruler",
+    "raw": "jquery-ui.ruler@^1.0.0",
+    "rawSpec": "^1.0.0",
+    "scope": null,
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jquery-ui.ruler/-/jquery-ui.ruler-1.0.0.tgz",
+  "_shasum": "571af9b406b1905d140a4a18f1637eac2d7998b1",
+  "_shrinkwrap": null,
+  "_spec": "jquery-ui.ruler@^1.0.0",
+  "_where": "/Users/wallysson/www/mailartisan/app",
+  "author": {
+    "name": "wallynm"
+  },
+  "bugs": {
+    "url": "https://github.com/wallynm/jquery-ui.ruler/issues"
+  },
+  "dependencies": {},
+  "description": "jQueryUI.Ruler ============",
+  "devDependencies": {},
+  "directories": {
+    "example": "examples"
+  },
+  "dist": {
+    "shasum": "571af9b406b1905d140a4a18f1637eac2d7998b1",
+    "tarball": "https://registry.npmjs.org/jquery-ui.ruler/-/jquery-ui.ruler-1.0.0.tgz"
+  },
+  "gitHead": "24f3356ccb0b2bd87c0a12b713acfd04697c768e",
+  "homepage": "https://github.com/wallynm/jquery-ui.ruler",
+  "keywords": [
+    "ruler",
+    "jquery"
+  ],
+  "license": "ISC",
+  "main": "jquery-ui.ruler/external/jquery-ui.min.js",
+  "maintainers": [
+    {
+      "email": "wally.nm@gmail.com",
+      "name": "wallynm"
+    }
+  ],
+  "name": "jquery-ui.ruler",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallynm/jquery-ui.ruler.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
